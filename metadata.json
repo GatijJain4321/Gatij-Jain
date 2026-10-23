@@ -1,0 +1,6 @@
+{
+  "name": "HotelPro - Modern Hotel Management System",
+  "description": "Enterprise hotel operations, reservations, guest management, front-desk check-in, housekeeping, payments, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
